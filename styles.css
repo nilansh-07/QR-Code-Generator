@@ -40,6 +40,7 @@ header h1 {
   /* Adjust font weight for better readability */
   color: #007bff;
   /* Change heading color for contrast */
+  text-align: center;
 }
 
 .wrapper .form {
